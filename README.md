@@ -23,6 +23,10 @@ Outside the coding realm, I enjoy travelling, learning new things, working out, 
 
 I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP), building websites on the likes of Wix and Yola as a 12yo, to now developing large-scale Frontend applications end-to-end on my own, I've always had passion for translating complex problems into engaging experiences. I'm currently the Frontend Lead at CosmicJS and have previously worked at Unacademy (Graphy) where I lead the Frontend of some projects at Graphy.
 
+This is my work GitHub, you can find my personal projects (albeit old) on my <a target="_blank" href="https://www.github.com/itsrajat">
+Personal GitHub account
+</a>
+
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I enjoy meeting new people</b> so if you have any questions or just wanna say hi, feel free to <a target="_blank" href="https://github.com/itsrajat/itsrajat/issues/new/choose"><strong> create an issue</strong></a> & I'll be happy to exchange our views on life, death, dinosaurs, bun & everything in between :3</b> </em>
 
 
