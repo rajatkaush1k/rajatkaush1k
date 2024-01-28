@@ -4,7 +4,10 @@
 </h1>
 
 <a target="_blank" href="https://rajatkaushik.vercel.app">
-<img src="https://img.shields.io/badge/-Portfolio-141414?style=for-the-badge&logo=Bitrise&logoColor=white&link=https://rajatk.tech" alt="Portfolio Badge">
+<img src="https://img.shields.io/badge/-Portfolio-6B6FE7?style=for-the-badge&logo=Bitrise&logoColor=white&link=https://rajatk.tech" alt="Portfolio Badge">
+</a>
+<a target="_blank" href="https://rajatkaushik.vercel.app/RAJAT_KAUSHIK_FRONTEND_RESUME.pdf">
+<img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=ReadMe&logoColor=white&link=https://rajatkaushik.vercel.app/RAJAT_KAUSHIK_FRONTEND_RESUME.pdf" alt="Resume Badge">
 </a>
 <a target="_blank" href="https://linkedin.com/in/itsrajatkaushik/">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/itsrajatkaushik/" alt="Linkedin Badge">
@@ -12,6 +15,7 @@
 <a target="_blank" href="https://www.deviantart.com/eclipssse/">
 <img src="https://img.shields.io/badge/-DeviantArt-darkgreen?style=for-the-badge&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/eclipssse" alt="DeviantArt Badge">
 </a>
+
 <br>
 
 <br>
