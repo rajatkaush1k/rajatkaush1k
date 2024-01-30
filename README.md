@@ -1,6 +1,6 @@
 <img align="right" src="https://giphy.com/static/img/zoomies-small.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/itsRajat/itsRajat/main/wave.gif" width="30px"><strong> Hey! I'm <a href="https://rajatk.tech">Rajat Kaushik</a></strong>
+<h1 align="left"><img src="https://raw.githubusercontent.com/itsRajat/itsRajat/main/wave.gif" width="30px"><strong> Hey! I'm <a href="https://rajatkaushik.vercel.app">Rajat Kaushik</a></strong>
 </h1>
 
 <a target="_blank" href="https://rajatkaushik.vercel.app">
@@ -31,7 +31,7 @@ This is my work GitHub, you can find my personal projects (albeit old) on my <a 
 Personal GitHub account
 </a>
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I enjoy meeting new people</b> so if you have any questions or just wanna say hi, feel free to <a target="_blank" href="https://github.com/itsrajat/itsrajat/issues/new/choose"><strong> create an issue</strong></a> & I'll be happy to exchange our views on life, death, dinosaurs, bun & everything in between :3</b> </em>
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I enjoy meeting new people</b> so if you have any questions or just wanna say hi, feel free to <a target="_blank" href="https://github.com/rajatkaush1k/rajatkaush1k/issues/new/choose"><strong> create an issue</strong></a> & I'll be happy to exchange our views on life, death, dinosaurs, bun & everything in between :3</b> </em>
 
 
   </details>
