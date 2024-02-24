@@ -25,7 +25,7 @@ My tech stack of preference is Next.js, TypeScript, React, Tailwind & Zustand/Re
 
 Outside the coding realm, I enjoy travelling, learning new things, working out, cooking, listening to music & podcasts, playing with my dog and gaming. I'm also fond of doing nothing at all sometimes (important!)
 
-I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP), building websites on the likes of Wix and Yola as a 12yo, to now developing large-scale Frontend applications end-to-end on my own, I've always had passion for translating complex problems into engaging experiences. I'm currently the Frontend Lead at CosmicJS and have previously worked at Unacademy (Graphy) where I lead the Frontend of some projects at Graphy.
+I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP), building websites on the likes of Wix and Yola as a 12yo, to now developing large-scale Frontend applications end-to-end on my own, I've always had passion for translating complex problems into engaging experiences. I'm currently the Frontend Lead at CosmicJS and have previously worked at Unacademy (Graphy).
 
 This is my work GitHub, you can find my personal projects (albeit old) on my <a target="_blank" href="https://www.github.com/itsrajat">
 Personal GitHub account
