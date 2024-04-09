@@ -20,7 +20,6 @@
 
 <br>
 <strong>I am Rajat Kaushik, a Software Engineer with a passion for transforming data into graphical user interfaces & engaging experiences for the next generation of web applications.</strong><br/><br/>
-<br/><br/>
 
 Outside the coding realm, I enjoy travelling, learning new things, working out, cooking, listening to music & podcasts, playing with my dog and gaming. I'm also fond of doing nothing at all sometimes (important!)
 
