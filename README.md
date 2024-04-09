@@ -19,13 +19,12 @@
 <br>
 
 <br>
-<strong>I am Rajat Kaushik, a Frontend Engineer with a passion for transforming data into graphical user interfaces & engaging experiences for the next generation of web applications.</strong><br/><br/>
-My tech stack of preference is Next.js, TypeScript, React, Tailwind & Zustand/React-Query, all of which I've worked with for years now but I also don't mind getting my hands dirty & learning the latest tech in the ever-evolving world of Frontend development.
+<strong>I am Rajat Kaushik, a Software Engineer with a passion for transforming data into graphical user interfaces & engaging experiences for the next generation of web applications.</strong><br/><br/>
 <br/><br/>
 
 Outside the coding realm, I enjoy travelling, learning new things, working out, cooking, listening to music & podcasts, playing with my dog and gaming. I'm also fond of doing nothing at all sometimes (important!)
 
-I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP), building websites on the likes of Wix and Yola as a 12yo, to now developing large-scale Frontend applications end-to-end on my own, I've always had passion for translating complex problems into engaging experiences. I'm currently the Frontend Lead at CosmicJS and have previously worked at Unacademy (Graphy).
+I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP), building websites on the likes of Wix and Yola as a 12yo, to now developing large-scale Frontend applications end-to-end on my own, I've always had passion for translating complex problems into engaging experiences.
 
 This is my work GitHub, you can find my personal projects (albeit old) on my <a target="_blank" href="https://www.github.com/itsrajat">
 Personal GitHub account
